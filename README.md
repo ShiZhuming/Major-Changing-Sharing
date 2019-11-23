@@ -1,3 +1,3 @@
 # About this repo
 
-This repo includes a presentation at the experience-sharing meeting of major-changing in Peking Unuversity, on 23rd Nov.
+This repo includes a presentation at the experience-sharing meeting of major-changing in Peking University, on 23rd Nov.
